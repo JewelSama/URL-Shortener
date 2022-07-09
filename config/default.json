@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://JewelSama:Flabagasted@cluster0.8peafx4.mongodb.net/?retryWrites=true&w=majority",
+    "baseURI": "http://localhost:5000"
+}
