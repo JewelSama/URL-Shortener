@@ -1,6 +1,6 @@
-const mongoose = require(mongoose)
+const mongoose = require('mongoose')
 
-const urlSchema = new mongoose.urlSchema({
+const urlSchema = new mongoose.Schema({
     urlCode: String,
     longUrl: String,
     shortUrl: String,
